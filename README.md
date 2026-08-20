@@ -8,7 +8,7 @@ Full Academic Report
 
 The complete theoretical derivation, variational formulation, and comprehensive material studies are fully documented in the academic report:
 
-[Read the Full Report (PDF)](./Report_FEniCSx_FEM.pdf)
+[Read the Full Report (PDF)](./report_FEniCSx_FEM.pdf)
 
 Project Overview
 
