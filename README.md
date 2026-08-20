@@ -28,7 +28,7 @@ The study explores:
 
 Visualizing Results
 
-Below are the visualization outputs obtained through PyVista post-processing:
+In the report are showed the visualization outputs obtained through PyVista post-processing:
 
 1. Displacement Distribution (Deflection)
 
